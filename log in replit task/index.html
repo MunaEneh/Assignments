@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=auto, initial-scale=1.0">
+  <link rel="shortcut icon" href="/Muushe.ico" type="image/x-icon">
+  <title>Registration Page</title>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Register</h1>
+    <div class="content">
+      <form action="Congrats.html">
+        <div class="user-details">
+          <div class="input-box">
+            <span class="details">First Name</span>
+            <input type="text" placeholder="Enter your first name" required>
+          </div>
+          <div class="input-box">
+            <span class="details">Last name</span>
+            <input type="text" placeholder="Enter your last name" required>
+          </div>
+          <div class="input-box">
+            <span class="details">Email</span>
+            <input type="text" placeholder="Enter your email" required>
+          </div>
+          <div class="input-box">
+            <span class="details">Phone Number</span>
+            <input type="text" placeholder="Enter your number" required>
+          </div>
+          <div class="input-box">
+            <span class="details">Password</span>
+            <input type="password" placeholder="Enter your password" required>
+          </div>
+
+          <div class="input-box">
+            <span class="details">Date of Birth</span>
+            <input type="date" id="start" name="trip-start" value="2018-07-22" min="1800-01-01" max="2022-12-31"
+              required>
+          </div>
+          <div class="input-box">
+            <span class="details">Favourite Color</span>
+            <input type="color" id="colorpicker" value="#0000ff" required>
+          </div>
+        </div>
+        <div class="gender-details">
+          <input type="radio" name="gender" id="dot-1">
+          <input type="radio" name="gender" id="dot-2">
+          <input type="radio" name="gender" id="dot-3">
+          <span class="gender-title">Gender</span>
+          <div class="category">
+            <label for="dot-1">
+              <span class="dot one"></span>
+              <span class="gender">Male</span>
+            </label>
+            <label for="dot-2">
+              <span class="dot two"></span>
+              <span class="gender">Female</span>
+            </label>
+            <label for="dot-3">
+              <span class="dot three"></span>
+              <span class="gender">Prefer not to say</span>
+            </label>
+          </div>
+
+          <a href="Congrats.html"><input type="submit" class="log" value="Register"></a>
+
+          <div class="signup_link">
+            Already a member? <a href="log in.html">Sign in</a>
+          </div>
+      </form>
+    </div>
+  </div>
+
+</body>
+
+</html>
