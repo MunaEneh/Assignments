@@ -5,7 +5,8 @@ This repo consists of my week 3 to 5 projects during the training.
 This is the [Youtube playlist](....put link to playlist here) for the training's Full-stack track
 
 # Projects
-##Week 3
+
+## Week 3
 
 ### Python Task: OOP, Classes and Objects Project (Quiz)
 This was a python task in week 3. I was given simple questions to answer. this quiz is in week 3 branch on this repo. it is titled as "Python Quiz question". it is a single document on the first page. it is not in an individyual folder.
