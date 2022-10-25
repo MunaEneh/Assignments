@@ -8,7 +8,7 @@ On the 23rd of September,2022 I started the Zuri training cohort II as a Fullsta
 #### Python Task: OOP, Classes and Objects Project (Quiz)
 This was a python task in week 3. I was given some questions to answer. This quiz is in week 3 branch on this repo. It is called "Python Quiz question". it is a single document on the first page. It is not in a folder.
 
-#### Tasks CSS Fundamentals project.
+#### [CSS Fundamentals project](https://replit.com/@MunaEneh/Portfolio-Website-Zuri-task-by-Muna-Eneh)
 This was a Frontend task. In this task we were required to : 
 
 1. Create a simple portfolio website with the following information: about me section, contact page, services section, project.
@@ -38,8 +38,9 @@ Hint: Searching for designs online will give you a better understanding of a bea
 <li> In my project page, all my projects have links that would lead you to each project which are on various platforms.</li>
 <li> All the images used are in a folder called "img". </li>
 <li> The image used as the icon when the page is loaded is saved as "Muushe.ico". it is the only image that is not in the img folder.</li>
+<li> For reference purposes, the replit link has been attached to the heading titled "CSS Fundamentals project". click on it and see my work</li>
 
-#### HTML and CSS Log in/Registration, Success page project
+#### [HTML and CSS Log in/Registration, Success page project](https://replit.com/@MunaEneh/Log-in-Registration-and-Success-Zuri-Task-by-Muna-Eneh#index.html)
 
    1. The user can only access the success or congrats page when they enter the correct info in the fields provided.
    2. The Success and Congrats page is only accessible through the log in / register pages.  
@@ -72,9 +73,5 @@ This HTML CSS log in task is in a folder titled "Log in replit task".
 <li>If you click the "sign in", you will be automatically redirected to the Lon in page.</li>
 <li>The log in page is titled "log in.html" in the "Log in replit task " folder.</li>
 <li>If the user clicks on "sign up" the user will be redirected to the Register page.</li>
-<li>Now, the register and log in pages will only load success pages, when the fields have been filled with the necessary information. if the user does not suppy the information, then , the user will not access or see the log in pages.</li>
-
-
-
-
-  
+<li>Now, the register and log in pages will only load success pages, when the fields have been filled with the necessary information. if the user does not suppy the       information, then , the user will not access or see the log in pages.</li>
+<li> For reference purposes, the replit link has been attached to the heading titled "HTML and CSS Log in/Registration, Success page project". click on it and see my        work</li>
